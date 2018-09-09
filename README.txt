@@ -6,7 +6,7 @@ SuperPrincess is a PacMan like game developed in Java using JavaFX libraries.
 Clone repository:
 1. Open terminal/Git CMD
 2. Go to your desired working location
-3. Type "https://github.com/Amal97/Super-Princess-.git" and press Enter
+3. Type "git clone https://github.com/Amal97/Super-Princess-.git" and press Enter
 4. Enter your Username and Password if required
 
 Instructions on running the project:
